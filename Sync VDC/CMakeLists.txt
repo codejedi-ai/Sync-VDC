@@ -56,4 +56,3 @@ if(WIN32)
         configure_file(${DLL_FILE} ${CMAKE_RUNTIME_OUTPUT_DIRECTORY} COPYONLY)
     endforeach()
 endif()
-

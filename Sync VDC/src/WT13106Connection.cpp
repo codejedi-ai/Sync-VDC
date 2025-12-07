@@ -467,4 +467,3 @@ void WT13106Connection::cleanupConnection()
         // Implementation depends on USB library used
     }
 }
-
